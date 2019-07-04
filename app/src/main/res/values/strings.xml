@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Instant Messanger Plus</string>
+
+    <string name="title_activity_chatview">ChatviewActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_chatuser">ChatuserActivity</string>
+
+    <string name="title_activity_video_call">VideoCallActivity</string>
+
+    <string name="title_activity_call">CallActivity</string>
+
+    <string name="title_activity_statusview">Statusview</string>
+
+    <string name="title_activity_status">Status</string>
+
+    <string name="title_activity_account">AccountActivity</string>
 </resources>

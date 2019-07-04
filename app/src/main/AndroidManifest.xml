@@ -9,7 +9,42 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".CodeActivity"></activity>
+        <activity
+            android:name=".AccountActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_account"
+            android:theme="@style/FullscreenTheme"></activity>
+        <activity
+            android:name=".Status"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_status"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".Statusview"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_statusview"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".CallActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_call"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".VideoCallActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_video_call"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".ChatuserActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chatuser"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".ChatviewActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_chatview"
+            android:theme="@style/FullscreenTheme" />
+        <activity android:name=".CodeActivity" />
         <activity android:name=".LoginActivity" />
         <activity android:name=".RegisterActivity" />
         <activity android:name=".MainActivity">
