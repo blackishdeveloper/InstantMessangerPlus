@@ -27,7 +27,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="408dp"
-
+        android:background="@drawable/edit_text"
         android:autofillHints=""
         android:ems="10"
         android:hint="Name"
@@ -56,12 +56,11 @@
         android:id="@+id/regPassword"
         android:layout_width="265dp"
         android:layout_height="wrap_content"
-
         android:layout_marginStart="8dp"
         android:layout_marginTop="20dp"
         android:layout_marginEnd="8dp"
         android:autofillHints=""
-
+        android:background="@drawable/edit_text"
         android:ems="10"
         android:hint="Password"
         android:inputType="textPassword"
@@ -74,10 +73,9 @@
         android:layout_width="265dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
-
+        android:background="@drawable/edit_text"
         android:layout_marginTop="20dp"
         android:layout_marginEnd="8dp"
-
         android:ems="10"
         android:hint="Confirm Password"
         android:inputType="textPassword"
@@ -92,7 +90,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="28dp"
         android:layout_marginEnd="8dp"
-
+       android:background="@drawable/btn_style"
         android:text="Sign up"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
