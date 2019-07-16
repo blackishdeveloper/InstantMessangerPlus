@@ -16,4 +16,6 @@
     <string name="title_activity_status">Status</string>
 
     <string name="title_activity_account">AccountActivity</string>
+    <string name="minimum_password" />
+    <string name="auth_failed" />
 </resources>
