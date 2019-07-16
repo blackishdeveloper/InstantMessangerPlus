@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "618025122783",
+    "firebase_url": "https://instantmessangerplus.firebaseio.com",
+    "project_id": "instantmessangerplus",
+    "storage_bucket": "instantmessangerplus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618025122783:android:adc67e342b4548bf",
+        "android_client_info": {
+          "package_name": "com.playrocksapplication.instantmessangerplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618025122783-qflc61r229db7e79nl163u90jm9fgsid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.playrocksapplication.instantmessangerplus",
+            "certificate_hash": "e00627e0112fda9bb0da40b051b788c3c5bc290b"
+          }
+        },
+        {
+          "client_id": "618025122783-tbignf36c1f2u50hm8h5681t6efe54jn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDesqS2ejDLgCbRz3_slUePG_wDqbvb-TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618025122783-tbignf36c1f2u50hm8h5681t6efe54jn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
